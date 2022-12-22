@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sabingoyek
-- 👀 I’m interested in designing IT solutions and maintaining them in optimal operating condition
+- 👀 I’m interested in designing data oriented IT solutions and maintaining them in optimal operating condition
 - 🌱 I’m currently learning DevOps and Data Engineering
-- 💞️ I’m looking to collaborate on Designing scalable IT infrastructure 
+- 💞️ I’m looking to collaborate on Designing scalable data infrastructure
 - 📫 How to reach me www.linkedin.com/in/sabingoyek
 
 <!---
