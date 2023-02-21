@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Kimba SABI N'GOYE
-- 👀 I’m interested in designing and implementing data oriented IT solutions and maintaining them in optimal operating condition
-- 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking to collaborate on DevOps, MLOps, AI, ML, Data Engineering.
+- 👀 I'm a data science graduate with a passion for IT Operations and software development. I’m currently working as a system integration and test engineer at Huawei.
+- 🌱 I’m learning DevOps and Data Engineering.
+- 💞️  I would like to combine my passion for IT operations, software engineering, and data science to create business value from data.
 - 📫 How to reach me www.linkedin.com/in/sabingoyek
+
+Skills: Python, AWS, circleci, Docker, Kubernetes, SQL, MongoDB, Machine Learning
 
 <!---
 sabingoyek/sabingoyek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
