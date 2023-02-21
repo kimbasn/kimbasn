@@ -3,8 +3,7 @@
 - 🌱 I’m learning DevOps and Data Engineering.
 - 💞️  I would like to combine my passion for IT operations, software engineering, and data science to create business value from data.
 - 📫 How to reach me www.linkedin.com/in/sabingoyek
-
-Skills: Python, AWS, circleci, Docker, Kubernetes, SQL, MongoDB, Machine Learning
+- Skills: Python, AWS, circleci, Docker, Kubernetes, SQL, MongoDB, Machine Learning
 
 <!---
 sabingoyek/sabingoyek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
