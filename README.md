@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Kimba SABI N'GOYE
-- 👀 I'm a data science graduate with a passion for IT Operations and software development. I’m currently working as a software engineer at Huawei.
+- 👀 I'm a student in data management for large-scale distributed systems at Université Paris-Saclay (France). I'm passionate about IT Operations and software development.
 - 🌱 I’m learning DevOps and Data Engineering.
 - 💞️  I would like to combine my passion for IT operations, software engineering, and data science to create business value from data.
-- 📫 How to reach me www.linkedin.com/in/sabingoyek
-- Skills: Python, AWS, circleci, Docker, Kubernetes, SQL, Fusionsphere Openstack, Machine Learning
+- 📫 How to reach me: www.linkedin.com/in/sabingoyek
+- Skills: Python, Bash, SQL, Apache Airflow, Apache Spark, Apache kafka, Hadoop, MongoDB, Cassandra, PostgreSQL, MySQL, Tableau AWS, Docker, Kubernetes, Machine Learning
 
 <!---
 sabingoyek/sabingoyek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
