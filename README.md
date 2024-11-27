@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **Kimba SABI N'GOYE**.
 - 🎓 **2024 graduate** in **Data Management for Large-Scale Distributed Systems** from **Université Paris-Saclay, France**.
-- 🌱 **Seeking a full-time, part-time, or freelance position** as a **Data Engineer** or **Software Engineer** starting **October 2024**.
 - 💡 Passionate about **software engineering**, **data**, and **distributed systems**.
 - 🔗 **Reach me on LinkedIn**: [www.linkedin.com/in/kimbasabingoye](https://www.linkedin.com/in/kimbasabingoye)
 - 🧠 **Leetcode**: [https://leetcode.com/u/kimbasabingoye/](https://leetcode.com/u/kimbasabingoye/)
