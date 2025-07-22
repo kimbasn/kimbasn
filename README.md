@@ -2,8 +2,8 @@
 - 🎓 **2024 graduate** in **Data Management for Large-Scale Distributed Systems** from **Université Paris-Saclay, France**.
 - 💡 Passionate about **software engineering**, **data**, and **distributed systems**.
 - 🔗 **Reach me on LinkedIn**: [www.linkedin.com/in/kimbasabingoye](https://www.linkedin.com/in/kimbasabingoye)
-- 🧠 **Leetcode**: [https://leetcode.com/u/kimbasabingoye/](https://leetcode.com/u/kimbasabingoye/)
-- 🛠️ **Skills**: Python, C/C++, Bash, SQL, Apache Airflow, Apache Spark, MongoDB, PostgreSQL, Tableau, GCP, Docker, Kubernetes.
+- 🧠 **Leetcode**: [https://leetcode.com/u/kimbasabingoye/](https://leetcode.com/u/kimbasn/)
+- 🛠️ **Skills**: Python, Go, C/C++, SQL, GCP.
 
 <!---
 kimbasabingoye/kimbasabingoye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
