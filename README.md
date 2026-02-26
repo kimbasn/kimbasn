@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Kimba SABI N'GOYE**.
-- 🎓 **2024 graduate** in **Data Management for Large-Scale Distributed Systems** from **Université Paris-Saclay, France**.
+<!--- - 🎓 **2024 graduate** in **Data Management for Large-Scale Distributed Systems** from **Université Paris-Saclay, France**. --->
 - 💡 Passionate about **software engineering**, **data**, and **distributed systems**.
 - 🔗 **Reach me on LinkedIn**: [www.linkedin.com/in/kimbasabingoye](https://www.linkedin.com/in/kimbasabingoye)
 - 🧠 **Leetcode**: [https://leetcode.com/u/kimbasn/](https://leetcode.com/u/kimbasn/)
